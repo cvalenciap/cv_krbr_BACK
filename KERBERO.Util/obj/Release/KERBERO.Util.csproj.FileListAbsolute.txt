@@ -1,0 +1,11 @@
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\bin\Release\KERBERO.Util.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\bin\Release\KERBERO.Util.pdb
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\bin\Release\Newtonsoft.Json.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\bin\Release\System.Net.Http.Formatting.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\bin\Release\System.Web.Http.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\bin\Release\Newtonsoft.Json.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\bin\Release\System.Net.Http.Formatting.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\bin\Release\System.Web.Http.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\obj\Release\KERBERO.Util.csprojResolveAssemblyReference.cache
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\obj\Release\KERBERO.Util.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.Util\obj\Release\KERBERO.Util.pdb

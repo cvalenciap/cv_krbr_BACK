@@ -1,0 +1,13 @@
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\CERBERO.Cliente.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\CERBERO.Cliente.pdb
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\KERBERO.Util.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\Newtonsoft.Json.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\System.Web.Http.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\KERBERO.Util.pdb
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\System.Web.Http.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\bin\Debug\Newtonsoft.Json.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\obj\Debug\CERBERO.Cliente.csprojResolveAssemblyReference.cache
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\obj\Debug\CERBERO.Cliente.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\CERBERO.Cliente\obj\Debug\CERBERO.Cliente.pdb

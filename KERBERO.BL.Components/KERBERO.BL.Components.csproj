@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CB8E4A5-8A1E-461E-B5EF-E5FC9A9CD2D4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KERBERO.BL.Components</RootNamespace>
+    <AssemblyName>KERBERO.BL.Components</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.12.2.1100\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Auditoria.cs" />
+    <Compile Include="Clases\Parametros.cs" />
+    <Compile Include="Clases\Perfiles.cs" />
+    <Compile Include="Clases\Permisos.cs" />
+    <Compile Include="Clases\Sistemas.cs" />
+    <Compile Include="Interfaces\IAuditoria.cs" />
+    <Compile Include="Interfaces\IParametros.cs" />
+    <Compile Include="Interfaces\IPerfiles.cs" />
+    <Compile Include="Interfaces\IPermisos.cs" />
+    <Compile Include="Interfaces\ISistemas.cs" />
+    <Compile Include="Interfaces\IUsuarios.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Clases\Usuarios.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KERBERO.DL.Repository\KERBERO.DL.Repository.csproj">
+      <Project>{56e5c41f-0ec7-4032-93fd-ccf8aa621d94}</Project>
+      <Name>KERBERO.DL.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KERBERO.Util\KERBERO.Util.csproj">
+      <Project>{e4d0f03a-3d3d-47b4-b77f-782f5e2fb48e}</Project>
+      <Name>KERBERO.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KERBERO.WCF.ServiceContracts\KERBERO.WCF.ServiceContracts.csproj">
+      <Project>{f03146b7-950b-490e-8f75-0b5633833170}</Project>
+      <Name>KERBERO.WCF.ServiceContracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

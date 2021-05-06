@@ -1,0 +1,9 @@
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\bin\Release\KERBERO.DL.Repository.dll.config
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\bin\Release\KERBERO.DL.Repository.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\bin\Release\KERBERO.DL.Repository.pdb
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\bin\Release\KERBERO.WCF.ServiceContracts.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\bin\Release\KERBERO.WCF.ServiceContracts.pdb
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\obj\Release\KERBERO.DL.Repository.csprojResolveAssemblyReference.cache
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\obj\Release\KERBERO.DL.Repository.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.DL.Repository\obj\Release\KERBERO.DL.Repository.pdb

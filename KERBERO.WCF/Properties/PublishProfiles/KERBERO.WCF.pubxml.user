@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects CV\publicados\KERBERO.WCF</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CERBERO.Cliente.dll">
+      <publishTime>04/24/2018 15:31:24</publishTime>
+    </File>
+    <File Include="bin/EPPlus.dll">
+      <publishTime>10/08/2017 22:48:52</publishTime>
+    </File>
+    <File Include="bin/KERBERO.BL.Components.dll">
+      <publishTime>04/24/2018 15:31:24</publishTime>
+    </File>
+    <File Include="bin/KERBERO.DL.Repository.dll">
+      <publishTime>04/24/2018 15:31:24</publishTime>
+    </File>
+    <File Include="bin/KERBERO.Util.dll">
+      <publishTime>04/24/2018 15:31:24</publishTime>
+    </File>
+    <File Include="bin/KERBERO.WCF.dll">
+      <publishTime>04/24/2018 15:31:24</publishTime>
+    </File>
+    <File Include="bin/KERBERO.WCF.ServiceContracts.dll">
+      <publishTime>04/24/2018 15:31:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>04/11/2012 09:05:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>04/11/2012 09:19:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Services.Client.dll">
+      <publishTime>04/11/2012 09:26:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Services.dll">
+      <publishTime>04/11/2012 09:37:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 20:33:56</publishTime>
+    </File>
+    <File Include="bin/Oracle.ManagedDataAccess.dll">
+      <publishTime>05/25/2017 20:39:04</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>02/01/2018 12:17:18</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>04/11/2012 08:59:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>02/01/2018 12:17:40</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="Kerbero.Auditoria.svc">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="Kerbero.Autenticacion.svc">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="Kerbero.Parametro.svc">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="Kerbero.Perfil.svc">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="Kerbero.Permiso.svc">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="Kerbero.Sistema.svc">
+      <publishTime>03/01/2018 19:37:35</publishTime>
+    </File>
+    <File Include="Kerbero.svc">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="Kerbero.Usuario.svc">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/02/2018 19:14:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/24/2018 15:31:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

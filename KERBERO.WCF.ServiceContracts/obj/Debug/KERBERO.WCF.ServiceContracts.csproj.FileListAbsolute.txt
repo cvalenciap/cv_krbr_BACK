@@ -1,0 +1,14 @@
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\KERBERO.WCF.ServiceContracts.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\KERBERO.WCF.ServiceContracts.pdb
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\Newtonsoft.Json.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\System.Web.Cors.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\System.Web.Http.Cors.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\System.Web.Http.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\Newtonsoft.Json.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\System.Web.Http.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\bin\Debug\System.Web.Http.Cors.xml
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\obj\Debug\KERBERO.WCF.ServiceContracts.dll
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\obj\Debug\KERBERO.WCF.ServiceContracts.pdb
+D:\Projects CV\GIT\KERBERO_1.1\KERBERO\KERBERO.WCF.ServiceContracts\obj\Debug\KERBERO.WCF.ServiceContracts.csprojResolveAssemblyReference.cache
